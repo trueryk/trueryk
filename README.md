@@ -1,5 +1,5 @@
 # 💫 About Me:
-Oi, meu nome é Henrique e eu sou dev iniciante :D
+DEV intermediário. Atualmente cursando FATEC.
 
 
 # 💻 Tech Stack:
